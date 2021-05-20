@@ -1,0 +1,175 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    width: 990px;
+    height: 70px;
+    margin: 0 auto;
+    /* background-color: blueviolet; */
+}
+.logo_1{
+    float: left;
+}
+.welcom{
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-top: 15px;
+    color: #666;
+}
+.content{
+    width: 100%;
+    background-color: #e93854;
+}
+.mid{
+    width: 990px;
+    height: 475px;
+    background:url(./img/banner.png);
+    margin: 0 auto;
+  
+}
+.content_1{
+    width: 348px;
+    height: 279px;
+    background-color: white;
+    float: right;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 25px 20px;
+    
+}
+.text{
+    height: 30px;
+}
+.text_1 p{
+    font-size: 20px;
+    line-height: 30px;
+    color: rgb(87, 84, 84);
+    float: left;
+    }
+
+.text_1 span{
+    font-size: 13px;
+    line-height: 30px;
+    float: right;
+    padding-left: 30px;
+    color: red;
+    background: url(./img/login-icons.png) no-repeat -96px -67px;
+    /* background-color: violet; */
+}
+.text_2{
+    width: 306px;
+    height: 40px;
+    float: left;
+    margin: 15px 0px;
+    border: 1px solid rgb(112, 108, 108);
+    /* background-color: rosybrown; */
+}
+.text_2 label{
+    width: 40px;
+    height: 40px;
+    float: left;
+    background: url(./img/login-icons.png) no-repeat 0px 0px;
+    background-color: #f3f3f3;
+    border-right: 1px solid rgb(112, 108, 108);
+    /* background-color: saddlebrown; */
+}
+.text_2 input{
+     width: 264px; 
+    border: none;
+     line-height: 40px;
+     text-indent: 10px;
+}
+/* 文本3复制文本2改图片 */
+.text_3{
+    width: 306px;
+    height: 40px;
+    float: left;
+    margin: 15px 0px;
+    border: 1px solid rgb(112, 108, 108);
+    /* background-color: rosybrown; */
+}
+.text_3 label{
+    width: 40px;
+    height: 40px;
+    float: left;
+    background: url(./img/login-icons.png) no-repeat -47px 0px;
+    background-color: #f3f3f3;
+    border-right: 1px solid rgb(112, 108, 108);
+    /* background-color: saddlebrown; */
+}
+.text_3 input{
+     width: 264px; 
+    border: none;
+     line-height: 40px;
+     text-indent: 10px;  
+}
+.text_4{
+    background-color: seagreen;
+}
+.text_4 input{
+    float: left;
+    width: 10px;
+    height: 10px;
+    border:1px solid #999;
+    border-radius: 3px 3px 3px 3px;
+    margin-top: 2px;
+}
+.text_4 p{
+    font-size: 12px;
+    color: #666;
+    float: left;
+    text-indent: 2px;
+}
+.text_4 span{
+    font-size: 12px;
+    color: #666;
+    float: right;
+}
+.text_5{
+    width: 306px;
+    height: 35px;
+    color: white;
+    line-height: 35px;
+    font-size: 18px;
+    float: left;
+    text-align: center;
+    background-color: #e4393c;
+    margin-top: 15px;
+}
+.bottom{
+    width: 100%;
+}
+.bottom ul{
+    width: 60%;
+    height: 30px;
+    margin: 0 auto;
+
+}
+.bottom_1 li{
+    list-style: none;
+    font-size: 12px;
+    line-height: 30px;
+   padding: 0 10px;
+    color: rgb(88, 87, 87);
+    float: left;
+}
+.line{
+    width: 1px;
+    height: 13px;
+    margin-top: 9px; 
+    background-color: rgb(114, 114, 112);
+    float: left; 
+}
+li:hover{
+    cursor: pointer;
+    color: blue;
+}
+p{
+    font-size: 11px;
+    color: #666;
+    text-align: center;
+   
+ 
+}
